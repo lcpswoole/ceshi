@@ -12,4 +12,7 @@ class Index{
 	public function ceshi(){
 		echo '李春鹏你是谁啊大萨达所的撒的撒';
 	}
+	public function index2(){
+		echo 22222333333;
+	}
 }
